@@ -1,0 +1,11 @@
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\obj\Debug\HillCons.csprojResolveAssemblyReference.cache
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\obj\Debug\HillCons.csproj.CoreCompileInputs.cache
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\bin\Debug\HillCons.exe.config
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\bin\Debug\HillCons.exe
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\bin\Debug\HillCons.pdb
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\bin\Debug\ClassLibrary1.dll
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\bin\Debug\HillLib.dll
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\bin\Debug\ClassLibrary1.pdb
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\bin\Debug\HillLib.pdb
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\obj\Debug\HillCons.exe
+C:\Users\esada\Desktop\Kriptoloji\Hill\HillCons\obj\Debug\HillCons.pdb
